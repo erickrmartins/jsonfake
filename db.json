@@ -398,7 +398,6 @@
             "dtPublicacao": "1949",
             "idGenero": 2,
             "numPaginas": 312,
-            "sinopsis": "Em um regime totalitário governado pelo Grande Irmão, o cidadão Winston Smith trabalha alterando dados históricos para o Partido. À medida que questiona o sistema, ele inicia um romance proibido e tenta resistir à vigilância absoluta da Polícia do Pensamento.",
             "ativo": "verdadeiro",
             "recomendado": "verdadeiro"
         },
@@ -411,7 +410,6 @@
             "dtPublicacao": "1937",
             "idGenero": 1,
             "numPaginas": 310,
-            "sinopsis": "O pacato hobbit Bilbo Bolseiro é retirado de sua vida confortável pelo mago Gandalf e um grupo de anões. Juntos, eles embarcam em uma perigosa jornada até a Montanha Solitária para recuperar um tesouro protegido pelo temível dragão Smaug.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -424,7 +422,6 @@
             "dtPublicacao": "1899",
             "idGenero": 0,
             "numPaginas": 413,
-            "sinopsis": "Bento Santiago, já idoso, relembra sua juventude e seu intenso amor por Capitu. Consumido pelo ciúme e pela desconfiança de ter sido traído por ela com seu melhor amigo, Escobar, o narrador constrói sua versão dos fatos sobre a polêmica cumplicidade dos olhos de ressaca.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -437,7 +434,6 @@
             "dtPublicacao": "1954",
             "idGenero": 1,
             "numPaginas": 423,
-            "sinopsis": "Em uma Terra-média ameaçada pelas forças das trevas, o jovem hobbit Frodo Baggins recebe a missão de destruir o Um Anel no Monte da Perdição. Para isso, ele conta com a ajuda de uma comitiva formada por homens, anões, elfos, hobbits e o mago Gandalf.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -450,7 +446,6 @@
             "dtPublicacao": "1932",
             "idGenero": 2,
             "numPaginas": 311,
-            "sinopsis": "Uma sociedade futurista moldada pela tecnologia, condicionamento biológico e controle social eliminou grande parte do sofrimento humano, mas ao custo da liberdade individual, da arte, das relações humanas e da subjetividade.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -463,7 +458,6 @@
             "dtPublicacao": "1988",
             "idGenero": 0,
             "numPaginas": 159,
-            "sinopsis": "O jovem pastor andaluz Santiago parte em uma jornada rumo às Pirâmides do Egito em busca de um tesouro. Ao longo do caminho, encontra diferentes pessoas e aprende a reconhecer os sinais que o conduzem em direção à sua Lenda Pessoal.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -476,7 +470,6 @@
             "dtPublicacao": "1943",
             "idGenero": 0,
             "numPaginas": 93,
-            "sinopsis": "Um piloto cai no deserto do Saara e encontra um jovem príncipe vindo de um asteroide distante. Através das histórias de suas viagens por outros planetas, o livro aborda temas como amizade, amor, responsabilidade e a essência invisível aos olhos.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -489,7 +482,6 @@
             "dtPublicacao": "1953",
             "idGenero": 2,
             "numPaginas": 156,
-            "sinopsis": "Guy Montag é um bombeiro cuja função não é apagar incêndios, mas queimar livros em um futuro onde a leitura é proibida e a sociedade vive anestesiada por telas e entretenimento.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -502,7 +494,6 @@
             "dtPublicacao": "1813",
             "idGenero": 0,
             "numPaginas": 869,
-            "sinopsis": "Na Inglaterra do século XIX, Elizabeth Bennet enfrenta as pressões sociais para se casar enquanto desenvolve uma relação turbulenta e repleta de mal-entendidos com o orgulhoso e reservado Sr. Darcy.",
             "ativo": "verdadeiro",
             "recomendado": "verdadeiro"
         },
@@ -515,7 +506,6 @@
             "dtPublicacao": "1915",
             "idGenero": 0,
             "numPaginas": 72,
-            "sinopsis": "Gregor Samsa acorda certa manhã transformado em uma criatura monstruosa. A narrativa acompanha as consequências dessa transformação sobre sua vida, seu trabalho e sua relação com sua família.",
             "ativo": "verdadeiro",
             "recomendado": "verdadeiro"
         },
@@ -528,7 +518,6 @@
             "dtPublicacao": "1956",
             "idGenero": 0,
             "numPaginas": 560,
-            "sinopsis": "Riobaldo, um ex-jagunço, narra suas memórias, conflitos e amores ao percorrer o sertão brasileiro. Entre guerras, amizades, dúvidas e paixões, sua trajetória se transforma em uma profunda reflexão sobre o destino, a existência e as escolhas humanas.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -541,7 +530,6 @@
             "dtPublicacao": "1995",
             "idGenero": 0,
             "numPaginas": 312,
-            "sinopsis": "Uma epidemia inexplicável de cegueira branca atinge uma cidade e provoca o colapso das estruturas sociais. Em meio ao caos, um pequeno grupo tenta sobreviver enquanto enfrenta a perda da ordem, da dignidade e das referências que sustentavam sua sociedade.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -554,7 +542,6 @@
             "dtPublicacao": "1866",
             "idGenero": 0,
             "numPaginas": 624,
-            "sinopsis": "Raskólnikov, um jovem estudante vivendo na pobreza, acredita que determinadas pessoas extraordinárias estariam acima das leis morais. Após cometer um assassinato, passa a enfrentar a culpa, o medo e as consequências psicológicas de seu ato.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -567,7 +554,6 @@
             "dtPublicacao": "1980",
             "idGenero": 6,
             "numPaginas": 535,
-            "sinopsis": "Em um mosteiro italiano do século XIV, o frei Guilherme de Baskerville investiga uma sequência de mortes misteriosas. Enquanto procura o responsável pelos crimes, descobre conflitos envolvendo religião, conhecimento, poder e uma biblioteca repleta de segredos.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         },
@@ -580,7 +566,6 @@
             "dtPublicacao": "1977",
             "idGenero": 1,
             "numPaginas": 88,
-            "sinopsis": "Macabéa é uma jovem nordestina que vive de forma simples e quase invisível no Rio de Janeiro. Sua rotina muda quando procura uma cartomante, que lhe anuncia um futuro inesperadamente promissor.",
             "ativo": "verdadeiro",
             "recomendado": "falso"
         }
