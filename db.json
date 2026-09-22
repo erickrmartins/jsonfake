@@ -34,76 +34,6 @@
             "citacao": "COELHO, Paulo",
             "nacionalidade": "Brasileira",
             "ativo": true
-        },
-        {
-            "id": 6,
-            "nome": "Antoine de Saint-Exupéry",
-            "citacao": "SAINT-EXUPÉRY, Antoine de",
-            "nacionalidade": "Francesa",
-            "ativo": true
-        },
-        {
-            "id": 7,
-            "nome": "Ray Bradbury",
-            "citacao": "BRADBURY, Ray",
-            "nacionalidade": "Norte-americana",
-            "ativo": true
-        },
-        {
-            "id": 8,
-            "nome": "Jane Austen",
-            "citacao": "AUSTEN, Jane",
-            "nacionalidade": "Britânica",
-            "ativo": true
-        },
-        {
-            "id": 9,
-            "nome": "Franz Kafka",
-            "citacao": "KAFKA, Franz",
-            "nacionalidade": "Austro-húngara",
-            "ativo": true
-        },
-        {
-            "id": 10,
-            "nome": "Clarice Lispector",
-            "citacao": "LISPECTOR, Clarice",
-            "nacionalidade": "Brasileira",
-            "ativo": true
-        },
-        {
-            "id": 11,
-            "nome": "João Guimarães Rosa",
-            "citacao": "ROSA, João Guimarães",
-            "nacionalidade": "Brasileira",
-            "ativo": true
-        },
-        {
-            "id": 12,
-            "nome": "José Saramago",
-            "citacao": "SARAMAGO, José",
-            "nacionalidade": "Portuguesa",
-            "ativo": true
-        },
-        {
-            "id": 13,
-            "nome": "Fiódor Dostoiévski",
-            "citacao": "DOSTOIÉVSKI, Fiódor",
-            "nacionalidade": "Russa",
-            "ativo": true
-        },
-        {
-            "id": 14,
-            "nome": "Umberto Eco",
-            "citacao": "ECO, Umberto",
-            "nacionalidade": "Italiana",
-            "ativo": true
-        },
-        {
-            "id": 15,
-            "nome": "Jorge Amado",
-            "citacao": "AMADO, Jorge",
-            "nacionalidade": "Brasileira",
-            "ativo": true
         }
     ],
     "copies": [
@@ -175,76 +105,6 @@
             "livro": 5,
             "identificacao": "HOB-COP-05",
             "status": "Perdido",
-            "ativo": false
-        },
-        {
-            "id": 11,
-            "livro": 6,
-            "identificacao": "DOM-COP-01",
-            "status": "Disponível",
-            "ativo": true
-        },
-        {
-            "id": 12,
-            "livro": 7,
-            "identificacao": "DOM-COP-02",
-            "status": "Emprestado",
-            "ativo": true
-        },
-        {
-            "id": 13,
-            "livro": 8,
-            "identificacao": "DOM-COP-03",
-            "status": "Disponível",
-            "ativo": true
-        },
-        {
-            "id": 14,
-            "livro": 9,
-            "identificacao": "DOM-COP-04",
-            "status": "Reservado",
-            "ativo": true
-        },
-        {
-            "id": 15,
-            "livro": 10,
-            "identificacao": "1984-COP-06",
-            "status": "Disponível",
-            "ativo": true
-        },
-        {
-            "id": 16,
-            "livro": 11,
-            "identificacao": "HOB-COP-06",
-            "status": "Emprestado",
-            "ativo": true
-        },
-        {
-            "id": 17,
-            "livro": 12,
-            "identificacao": "DOM-COP-05",
-            "status": "Disponível",
-            "ativo": true
-        },
-        {
-            "id": 18,
-            "livro": 13,
-            "identificacao": "1984-COP-07",
-            "status": "Disponível",
-            "ativo": true
-        },
-        {
-            "id": 19,
-            "livro": 14,
-            "identificacao": "HOB-COP-07",
-            "status": "Reservado",
-            "ativo": true
-        },
-        {
-            "id": 20,
-            "livro": 15,
-            "identificacao": "DOM-COP-06",
-            "status": "Em Manutenção",
             "ativo": false
         }
     ],
@@ -448,126 +308,6 @@
             "numPaginas": 311,
             "ativo": "verdadeiro",
             "recomendado": "falso"
-        },
-        {
-            "id": 6,
-            "titulo": "O Alquimista",
-            "idAutor": 5,
-            "idEditora": 3,
-            "ISBN": "9788543810737",
-            "dtPublicacao": "1988",
-            "idGenero": 0,
-            "numPaginas": 159,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
-        },
-        {
-            "id": 7,
-            "titulo": "O Pequeno Príncipe",
-            "idAutor": 7,
-            "idEditora": 4,
-            "ISBN": "9786550971205",
-            "dtPublicacao": "1943",
-            "idGenero": 0,
-            "numPaginas": 93,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
-        },
-        {
-            "id": 8,
-            "titulo": "Fahrenheit 451",
-            "idAutor": 6,
-            "idEditora": 1,
-            "ISBN": "9781451673319",
-            "dtPublicacao": "1953",
-            "idGenero": 2,
-            "numPaginas": 156,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
-        },
-        {
-            "id": 9,
-            "titulo": "Orgulho e Preconceito",
-            "idAutor": 9,
-            "idEditora": 7,
-            "ISBN": "9788525404350",
-            "dtPublicacao": "1813",
-            "idGenero": 0,
-            "numPaginas": 869,
-            "ativo": "verdadeiro",
-            "recomendado": "verdadeiro"
-        },
-        {
-            "id": 10,
-            "titulo": "A Metamorfose",
-            "idAutor": 10,
-            "idEditora": 8,
-            "ISBN": "9788582459188",
-            "dtPublicacao": "1915",
-            "idGenero": 0,
-            "numPaginas": 72,
-            "ativo": "verdadeiro",
-            "recomendado": "verdadeiro"
-        },
-        {
-            "id": 11,
-            "titulo": "Grande Sertão: Veredas",
-            "idAutor": 11,
-            "idEditora": 9,
-            "ISBN": "9788554513238",
-            "dtPublicacao": "1956",
-            "idGenero": 0,
-            "numPaginas": 560,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
-        },
-        {
-            "id": 12,
-            "titulo": "Ensaio sobre a Cegueira",
-            "idAutor": 12,
-            "idEditora": 10,
-            "ISBN": "9788543801216",
-            "dtPublicacao": "1995",
-            "idGenero": 0,
-            "numPaginas": 312,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
-        },
-        {
-            "id": 13,
-            "titulo": "Crime e Castigo",
-            "idAutor": 13,
-            "idEditora": 11,
-            "ISBN": "9786556402741",
-            "dtPublicacao": "1866",
-            "idGenero": 0,
-            "numPaginas": 624,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
-        },
-        {
-            "id": 14,
-            "titulo": "O Nome da Rosa",
-            "idAutor": 14,
-            "idEditora": 12,
-            "ISBN": "9788501094193",
-            "dtPublicacao": "1980",
-            "idGenero": 6,
-            "numPaginas": 535,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
-        },
-        {
-            "id": 15,
-            "titulo": "A Hora da Estrela",
-            "idAutor": 13,
-            "idEditora": 10,
-            "ISBN": "9788581221908",
-            "dtPublicacao": "1977",
-            "idGenero": 1,
-            "numPaginas": 88,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
         }
     ],
     "genero": [
@@ -588,24 +328,8 @@
             "nome": "Aventura"
         },
         {
-            "id": 6,
+            "id": 5,
             "nome": "Drama"
-        },
-        {
-            "id": 7,
-            "nome": "Mistério"
-        },
-        {
-            "id": 8,
-            "nome": " Histórico"
-        },
-        {
-            "id": 9,
-            "nome": "Poesia"
-        },
-        {
-            "id": 10,
-            "nome": "Biografia"
         }
     ],
     "editora": [
@@ -628,34 +352,6 @@
         {
             "id": 5,
             "nome": "HarperCollins"
-        },
-        {
-            "id": 6,
-            "nome": "Simon & Schuster Paperbacks"
-        },
-        {
-            "id": 7,
-            "nome": "Autentica Editora"
-        },
-        {
-            "id": 8,
-            "nome": "Antofagica"
-        },
-        {
-            "id": 9,
-            "nome": "Nova Fronteira"
-        },
-        {
-            "id": 10,
-            "nome": "Companhia das Letras"
-        },
-        {
-            "id": 11,
-            "nome": "Geracao Editorial"
-        },
-        {
-            "id": 12,
-            "nome": "Record"
         }
     ]
 }
