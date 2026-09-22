@@ -471,7 +471,7 @@
             "id": 7,
             "titulo": "O Pequeno Príncipe",
             "idAutor": 7,
-            "idEditora": 1,
+            "idEditora": 4,
             "ISBN": "9786550971205",
             "dtPublicacao": "1943",
             "idGenero": 0,
@@ -483,7 +483,7 @@
         {
             "id": 8,
             "titulo": "Fahrenheit 451",
-            "idAutor": 8,
+            "idAutor": 6,
             "idEditora": 1,
             "ISBN": "9781451673319",
             "dtPublicacao": "1953",
@@ -497,7 +497,7 @@
             "id": 9,
             "titulo": "Orgulho e Preconceito",
             "idAutor": 9,
-            "idEditora": 1,
+            "idEditora": 7,
             "ISBN": "9788525404350",
             "dtPublicacao": "1813",
             "idGenero": 0,
@@ -510,7 +510,7 @@
             "id": 10,
             "titulo": "A Metamorfose",
             "idAutor": 10,
-            "idEditora": 1,
+            "idEditora": 8,
             "ISBN": "9788582459188",
             "dtPublicacao": "1915",
             "idGenero": 0,
@@ -523,7 +523,7 @@
             "id": 11,
             "titulo": "Grande Sertão: Veredas",
             "idAutor": 11,
-            "idEditora": 1,
+            "idEditora": 9,
             "ISBN": "9788554513238",
             "dtPublicacao": "1956",
             "idGenero": 0,
@@ -536,7 +536,7 @@
             "id": 12,
             "titulo": "Ensaio sobre a Cegueira",
             "idAutor": 12,
-            "idEditora": 1,
+            "idEditora": 10,
             "ISBN": "9788543801216",
             "dtPublicacao": "1995",
             "idGenero": 0,
@@ -549,7 +549,7 @@
             "id": 13,
             "titulo": "Crime e Castigo",
             "idAutor": 13,
-            "idEditora": 1,
+            "idEditora": 11,
             "ISBN": "9786556402741",
             "dtPublicacao": "1866",
             "idGenero": 0,
@@ -562,7 +562,7 @@
             "id": 14,
             "titulo": "O Nome da Rosa",
             "idAutor": 14,
-            "idEditora": 1,
+            "idEditora": 12,
             "ISBN": "9788501094193",
             "dtPublicacao": "1980",
             "idGenero": 6,
@@ -574,8 +574,8 @@
         {
             "id": 15,
             "titulo": "A Hora da Estrela",
-            "idAutor": 15,
-            "idEditora": 1,
+            "idAutor": 13,
+            "idEditora": 10,
             "ISBN": "9788581221908",
             "dtPublicacao": "1977",
             "idGenero": 1,
@@ -638,7 +638,7 @@
         },
         {
             "id": 4,
-            "nome": "Record"
+            "nome": "Mauad"
         },
         {
             "id": 5,
@@ -646,23 +646,31 @@
         },
         {
             "id": 6,
-            "nome": "DarkSide Books"
+            "nome": "Simon & Schuster Paperbacks"
         },
         {
             "id": 7,
-            "nome": "Planeta"
+            "nome": "Autentica Editora"
         },
         {
             "id": 8,
-            "nome": "Sextante"
+            "nome": "Antofagica"
         },
         {
             "id": 9,
-            "nome": "Aleph"
+            "nome": "Nova Fronteira"
         },
         {
             "id": 10,
-            "nome": "Editora 34"
+            "nome": "Companhia das Letras"
+        },
+        {
+            "id": 11,
+            "nome": "Geracao Editorial"
+        },
+        {
+            "id": 12,
+            "nome": "Record"
         }
     ]
 }
