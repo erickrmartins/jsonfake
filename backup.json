@@ -15,9 +15,9 @@
         {
             "id": 1,
             "cargo": "Leitor",
-            "dtCriacao": "01/01/2001",
+            "dtNasc": "2001-01-01",
             "nome": "Erick Rezende Martins",
-            "CPF": "00000000000",
+            "CPF": "00000000001",
             "telefone": "32999999999",
             "email": "erickrezendemartins@email.com",
             "senha": "erick123",
@@ -27,9 +27,9 @@
         {
             "id": 2,
             "cargo": "Administrador",
-            "dtCriacao": "01/01/2002",
+            "dtNasc": "2002-02-02",
             "nome": "Marco Antonio",
-            "CPF": "00000000000",
+            "CPF": "00000000002",
             "telefone": "32999999999",
             "email": "marcoantonio@email.com",
             "senha": "marco123",
@@ -39,9 +39,9 @@
         {
             "id": 3,
             "cargo": "Bibliotecario",
-            "dtCriacao": "01/01/2003",
+            "dtNasc": "2003-03-03",
             "nome": "Rhuan Pablo de Carvalho",
-            "CPF": "00000000000",
+            "CPF": "00000000003",
             "telefone": "32999999999",
             "email": "rhuanpablodecarvalho@email.com",
             "senha": "rhuan123",
@@ -122,15 +122,15 @@
         {
             "id": 1,
             "titulo": "1984",
-            "ISBN": 9788535914849,
+            "ISBN": "9788535914849",
             "dtPublicacao": "1949",
             "numPaginas": 312,
             "sinopsis": "Em um regime totalitário governado pelo Grande Irmão, o cidadão Winston Smith trabalha alterando dados históricos para o Partido. À medida que questiona o sistema, ele inicia um romance proibido e tenta resistir à vigilância absoluta da Polícia do Pensamento.",
             "idAutor": 1,
             "idGenero": 3,
             "idEditora": 2,
-            "ativo": "verdadeiro",
-            "recomendado": "verdadeiro"
+            "ativo": true,
+            "recomendado": true
         },
         {
             "id": 2,
@@ -142,8 +142,8 @@
             "idAutor": 2,
             "idGenero": 2,
             "idEditora": 2,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
+            "ativo": true,
+            "recomendado": false
         },
         {
             "id": 3,
@@ -155,8 +155,8 @@
             "idAutor": 3,
             "idGenero": 1,
             "idEditora": 1,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
+            "ativo": true,
+            "recomendado": true
         },
         {
             "id": 4,
@@ -168,8 +168,8 @@
             "idAutor": 4,
             "idGenero": 2,
             "idEditora": 2,
-            "ativo": "verdadeiro",
-            "recomendado": "falso"
+            "ativo": true,
+            "recomendado": false
         }
     ],
     "reservas": [
@@ -205,71 +205,71 @@
     "exemplares": [
         {
             "id": 1,
-            "livro": 1,
+            "idLivro": 1,
             "identificacao": "1984-COP-01",
             "status": "Emprestado",
             "ativo": true
         },
         {
             "id": 2,
-            "livro": 1,
+            "idLivro": 1,
             "identificacao": "1984-COP-02",
             "status": "Disponível",
             "ativo": true
         },
         {
             "id": 3,
-            "livro": 1,
+            "idLivro": 1,
             "identificacao": "1984-COP-03",
             "status": "Disponível",
             "ativo": true
         },
         {
             "id": 4,
-            "livro": 2,
-            "identificacao": "1984-COP-04",
+            "idLivro": 2,
+            "identificacao": "HOB-COP-01",
             "status": "Emprestado",
             "ativo": false
         },
         {
             "id": 5,
-            "livro": 2,
-            "identificacao": "1984-COP-05",
+            "idLivro": 2,
+            "identificacao": "HOB-COP-02",
             "status": "Em Manutenção",
             "ativo": true
         },
         {
             "id": 6,
-            "livro": 3,
-            "identificacao": "HOB-COP-01",
+            "idLivro": 3,
+            "identificacao": "DCA-COP-01",
             "status": "Emprestado",
             "ativo": true
         },
         {
             "id": 7,
-            "livro": 4,
-            "identificacao": "HOB-COP-02",
+            "idLivro": 4,
+            "identificacao": "SDA-COP-01",
             "status": "Disponível",
             "ativo": true
         },
         {
             "id": 8,
-            "livro": 4,
-            "identificacao": "HOB-COP-03",
+            "idLivro": 4,
+            "identificacao": "SDA-COP-02",
             "status": "Em Manutenção",
             "ativo": false
         },
         {
             "id": 9,
-            "livro": 4,
-            "identificacao": "HOB-COP-04",
+            "idLivro": 4,
+            "identificacao": "SDA-COP-03",
             "status": "Disponível",
             "ativo": true
         },
         {
             "id": 10,
-            "livro": 4,
-            "identificacao": "HOB-COP-05",
+            "idLivro": 4,
+            "identificacao": "SDA-COP-01",
             "status": "Perdido",
             "ativo": false
         }
